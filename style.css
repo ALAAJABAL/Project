@@ -1,0 +1,35 @@
+#h3
+{
+    width: 100%;
+    margin:0;
+    font-size: 30px;
+}
+
+#L
+{
+    font-size: 18px;
+}
+
+img
+{
+    height: 200px;
+    width: 200px;
+}
+
+#speeddiv
+{
+    float: left;
+}
+
+#volumediv
+{
+    float: right;
+}
+
+canvas
+{
+    border-style: dotted;
+    border-width: 2px;
+    border-color: white;
+    margin-top: 150px;
+}
